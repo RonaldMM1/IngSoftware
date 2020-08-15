@@ -3,7 +3,7 @@ layout: page
 title: Bienvenido a mi pagina!
 ---
 <body>
-En los post te enseñare lo que hemos estado apriendiendo en la clase de Introduccion de Ingeria de software, docente: Angel Cuenca Ortega.
+En los post te enseñare lo que hemos estado apriendiendo en la clase de Introduccion de Ingeria de software, docente: Angel Cuenca Ortega.<br>
   <body>                                                                                                                                                   
 <b>Acera de mi</b>
 <body>
