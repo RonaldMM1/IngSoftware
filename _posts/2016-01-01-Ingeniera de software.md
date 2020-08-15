@@ -9,11 +9,12 @@ image: mountains.jpg
 
 ## ¿Qué es la ingenieria de software?
 Es una disciplina de la ingenieria que concierne a todos los aspectos de la producción de software, ¿que es un software? un software es un progama de computo y su respectiva documentacion, lo cual puede ad hoc o generico: el ad hoc se refiere a que se desarrolla por pedido de un cliente a un desarrollador específico y generico es desarrollado para venderse a multiples clientes.
-## Getting Started
+## Diferencia entre IS y ciencias computacionales 
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): La diferencia esta en que la ciencia computacional se dedica al conocimiento teorico y fundamtentos de cualquier sistema de computo(el hardware o software) y la ingenieria de software(IS) se enfoca en el desarrollo practico ademas de que la IS esta lejos de ser considerada una ciencia como la química o física.
 
-## Example Content
+
+## EContentxample 
 
 [Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
 
