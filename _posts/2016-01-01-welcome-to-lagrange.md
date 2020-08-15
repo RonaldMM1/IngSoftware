@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Welcome to Lagrange!"
-author: "Paul Le"
+title: "La ingeniera de software"
+author: "Ronald Mosquera"
 categories: journal
 tags: [documentation,sample]
 image: mountains.jpg
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
-
+## ¿Qué es la ingenieria de software?
+Es una disciplina de la ingenieria que concierne a todos los aspectos de la producción de software, ¿que es un software? un software es un progama de computo y su respectiva documentacion, lo cual puede ad hoc o generico: el ad hoc se refiere a que se desarrolla por pedido de un cliente a un desarrollador específico y generico es desarrollado para venderse a multiples clientes.
 ## Getting Started
 
 [Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
