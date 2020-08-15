@@ -20,8 +20,8 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Ronald Mosquera'
-description:	       'Proyecto parcial de Intorduccion de ingenieria de software'
+title:		           'Proyecto de Introduccion de Ingenieria de Software'
+description:	       'Resumen del parcial'
 author:              'Ronald Mosquera'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
