@@ -38,4 +38,13 @@ debe estar en los principios de colaborar y ganar.
 
 ## modelo en espiral
 
+Es un modelo en combinación con el modelo de cascada y el iterativo, consiste en seguir un ciclo de cuatro fases cada uno, las fases definidas en el modelo cascada, este modelo
+es utilizado en proyectos donde el coste de un fallo es un gran riesgo, este comienza siendo pequeño donde se investiga los mayores riesgos y después ir agrandándose poco a poco
+hasta ser el producto final.
+Las fases por las que pasa en cada ciclo son: 
+* <b>Planificación</b>: Son los objetivos que se definen tras una investigación, con cada iteración se incrementa el tamaño del software 
+* <b>Análisis de riesgos</b>: Se estudia todo riesgo que pueda afectar nuestro programa.
+*	<b>Implementación</b>: se desarrolla el software según lo acordado en la planificación 
+*	<b>Evaluación</b>: antes de iniciar otra vuelta se revisa lo hecho en la vuelta anterior.
+
 
