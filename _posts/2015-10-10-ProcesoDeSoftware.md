@@ -1,31 +1,26 @@
 ---
 layout: post
-title: "Getting Started"
-author: "Paul Le"
+title: "Proceso de software"
+author: "Ronald Mosquera"
 categories: journal
 tags: [documentation,sample]
 image: forest.jpg
 ---
 
-# Lagrange
+# factores de calidad
 
-Lagrange is a minimalist Jekyll theme for running a personal blog or site for free through [Github Pages](https://pages.github.com/), or on your own server. Everything that you will ever need to know about this Jekyll theme is included in the README below, which you can also find in [the demo site](https://lenpaul.github.io/Lagrange/).
+Estos factores tiene concordancia con los requisitos funcionales, los estandares de desarrollo y la documentacion.
 
-![alt text](https://user-images.githubusercontent.com/8409329/32631384-17107870-c56e-11e7-932f-deeb7c12e4db.png "Lagrange Demo Image")
+# Modelo de calidad McCall
 
-## Notable features
+los factores se clasifican en: características operativas, soportar cambios y su adaptabilidad a nuevos entornos.
+1 Características operativas: corrección, fiabilidad, eficiencia, integridad y facilidad de uso.
+2 Capacidad de soportar cambios: Facilidad de mantenimiento, flexibiladad y facilidad de prueba.
+3 Adaptabilidad de nuevo entornos: portabilidad, reusabilidad y facilidad de interoperacion.
 
-* Compatible with GitHub Pages.
+## Proceso de software
 
-* Support for Jekyll's built-in Sass/SCSS preprocessor and data files for making customizing easier.
-
-* [Google Analytics](https://www.google.com/analytics/) support.
-
-* Commenting support powered by [Disqus](https://disqus.com/).
-
-* Optimized for search engines.
-
-* LaTeX support through [MathJax](https://www.mathjax.org/).
+Los procesos de software son un conjunto de actividades para el desarrollo del software para obtener un resultado eficiente y eficaz para el cliente, existen varios modelos de procesos no hay uno general para desarrollar un proyecto, hay 4 actividades fundamentales en los procesos: especificacion, desarrollo, validacion y la evolucion.
 
 ## Table of Contents
 
