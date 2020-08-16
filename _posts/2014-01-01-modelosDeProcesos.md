@@ -7,6 +7,11 @@ tags: [documentation,sample]
 image: cards.jpg
 ---
 
+Algunos modelos de proces mas utilizados en el desarrollo de software ya se por su forma de
+trabajar o en caso de no tener en claro algunos requisitos, ya que cada uno de ellos a pesar
+de compartir algunas fases cada uno de ello trabaja de forma diferente con sus caracteristicas
+propias. 
+
 # Modelo cascada
 
 Primer modelo desarrollado en 1970 por winston royce, consta de 5 fases que trabajan de una
