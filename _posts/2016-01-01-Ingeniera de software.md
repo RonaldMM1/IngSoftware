@@ -4,7 +4,7 @@ title: "La ingeniera de software"
 author: "Ronald Mosquera"
 categories: journal
 tags: [documentation,sample]
-image: mountains.jpg
+image: software.jpg
 ---
 
 ## ¿Qué es la ingenieria de software?
