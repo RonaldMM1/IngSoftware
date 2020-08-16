@@ -6,6 +6,7 @@ categories: journal
 tags: [documentation,sample]
 image: cards.jpg
 ---
+## Modelos de desarrollo
 
 Algunos modelos de proces mas utilizados en el desarrollo de software ya se por su forma de
 trabajar o en caso de no tener en claro algunos requisitos, ya que cada uno de ellos a pesar
