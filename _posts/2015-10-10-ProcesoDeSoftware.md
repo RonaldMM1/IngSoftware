@@ -4,7 +4,7 @@ title: "Proceso de software"
 author: "Ronald Mosquera"
 categories: journal
 tags: [documentation,sample]
-image: forest.jpg
+image: procesos.jpg
 ---
 
 # factores de calidad
