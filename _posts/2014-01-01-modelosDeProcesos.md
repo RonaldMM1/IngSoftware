@@ -4,7 +4,7 @@ title: "Modelos de procesos de desarrollo"
 author: "Ronald Mosquera"
 categories: journal
 tags: [documentation,sample]
-image: cards.jpg
+image: desarrollo.jpg
 ---
 ## Modelos de desarrollo
 
