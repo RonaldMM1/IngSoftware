@@ -11,33 +11,14 @@ image: mountains.jpg
 Es una disciplina de la ingenieria que concierne a todos los aspectos de la producción de software, ¿que es un software? un software es un progama de computo y su respectiva documentacion, lo cual puede ad hoc o generico: el ad hoc se refiere a que se desarrolla por pedido de un cliente a un desarrollador específico y generico es desarrollado para venderse a multiples clientes.
 ## Diferencia entre IS y ciencias computacionales 
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): La diferencia esta en que la ciencia computacional se dedica al conocimiento teorico y fundamtentos de cualquier sistema de computo(el hardware o software) y la ingenieria de software(IS) se enfoca en el desarrollo practico ademas de que la IS esta lejos de ser considerada una ciencia como la química o física.
+La diferencia esta en que la ciencia computacional se dedica al conocimiento teorico y fundamtentos de cualquier sistema de computo(el hardware o software) y la ingenieria de software(IS) se enfoca en el desarrollo practico ademas de que la IS esta lejos de ser considerada una ciencia como la química o física.
 
 
-## EContentxample 
+## La crisis del software 
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
+desarrollar software puede ser un gran desafío intelecutal: problemas grandes, complejos y variados, Formalismos inadecuados, gran diferencia entre la teoria y la practica. la crisis del software trata sobre los problemas que existea a al hora del desarrollo, la comunicacion entre el cliente y el desarrollador ademas de otros factores como son el retraso de la entrega, coste excesivo, manteniemto problematico, carencia de documentacion, etc. la mala comunicacion con el cliente no nos permite tener en claro los requerimientos o necesidades.
 
-## Questions?
+## Proyecto Software
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+un proyecto software nace desde una idea inicial hasta la muerte del software, es decir, que se vuelve obsoleto, antes de comenzar a desarrollar un proyecto se realiza un serie de tareas o fases para poder a comenzar a desarrollar, como por ejemplo establecer lor requeriemtnos, funciones o necesisdades a satisfacer del cliente.
 
-## More Jekyll!
-
-### Millennial
-
-Millennial is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for a publication or blog.
-
-Feel free to check out <a href="https://lenpaul.github.io/Millennial/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Millennial/documentation/getting-started.html">how to use install</a> and use the theme.
-
-### Portfolio Jekyll Theme
-
-This is a Jekyll theme built using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). The purpose of this theme is to provide a clean and simple website for your portfolio. Emphasis is placed on your projects, which are shown front and center on the home page.
-
-Everything that you will ever need to know about this Jekyll theme is included in [the repository](https://github.com/LeNPaul/portfolio-jekyll-theme), which you can also find in [the demo site](https://lenpaul.github.io/portfolio-jekyll-theme/).
-
-### Jekyll Starter Kit
-
-The Jekyll Starter Kit is a simple framework for starting your own Jekyll project using all of the best practices that I learned from building my other Jekyll themes.
-
-Feel free to check out <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank">the GitHub repository</a>, where you’ll also find instructions on how to use install and use the theme.
